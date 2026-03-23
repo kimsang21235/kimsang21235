@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=280&section=header&text=Sanghyeon%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Backend%20Developer&descAlignY=75)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Sanghyeon+Kim;Second+line+of+text)](https://git.io/typing-svg)
 # 👋 Hi, I'm Sanghyeon Kim
 
 백엔드 기반으로 AI 서비스를 설계하고 구현하는 개발자입니다.  
