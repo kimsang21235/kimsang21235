@@ -6,21 +6,27 @@
 
 ## 👤 Profile 
 
-<div align="center">
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kimsang21235)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/24dfebf7622b80b893e3e89e82f3e2f5)
-
-</div>
 
 ---
 
 ## 🌟 Experience 🌟
 
-2020.03 ~ 2026.02 멀티미디어공학 전공  
+2020.03 ~ 2026.02 국립안동대학교 멀티미디어공학 전공  
 2025.07 ~ AI / Backend 프로젝트 수행  
 GCP 기반 AI 서비스 구축 경험  
+
+---
+
+## 🏆 Awards
+
+| 연도 | 내용 |
+|------|------|
+| 🗓️ 2025.10 | 🥇 K-하이테크 플랫폼 사업단 AI 전문인력 양성과정(고급반) 최우수상 |
+| 🗓️ 2025.09 | 🥈 AI Google Cloud 융합혁신 컨퍼런스 페어 우수상 |
+| 🗓️ 2025.06 | 🏆 한국정보기술학회 학술대회 논문 게재 (우수 논문상) |
 
 ---
 
@@ -101,10 +107,10 @@ GCP 기반 AI 서비스 구축 경험
   <!-- SKINMATE -->
   <tr>
     <td>
-      <a href="https://github.com/your-github-id/SKINMATE"><b>SKINMATE</b></a>
+      <a href="https://github.com/kimsang21235/SKINMATE"><b>SKINMATE</b></a>
     </td>
     <td>
-      <img src="./assets/skinmate.png" width="260"/>
+      <img src="https://raw.githubusercontent.com/kimsang21235/SKINMATE/docs/screenshots/skinmate_시연.gif" width="700"/>
     </td>
     <td>
       회귀 기반 피부 점수화와<br/>
@@ -125,7 +131,7 @@ GCP 기반 AI 서비스 구축 경험
   <!-- YOLO -->
   <tr>
     <td>
-      <a href="https://github.com/your-github-id/video-analysis"><b>YOLO Video Analysis</b></a>
+      <a href="https://github.com/kimsang21235/YOLO-Crowd-Detection-System"><b>YOLO Video Analysis</b></a>
     </td>
     <td>
       <img src="./assets/yolo.png" width="260"/>
