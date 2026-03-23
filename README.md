@@ -134,7 +134,7 @@ GCP 기반 AI 서비스 구축 경험
       <a href="https://github.com/kimsang21235/YOLO-Crowd-Detection-System"><b>YOLO Video Analysis</b></a>
     </td>
     <td>
-      <img src="./assets/yolo.png" width="260"/>
+      <img src="https://raw.githubusercontent.com/kimsang21235/YOLO-Crowd-Detection-System/main/docs/YOLO_Video_Analysis_demo.gif" width="400" alt="3vis 시연"/>
     </td>
     <td>
       YOLO 기반 객체 탐지와
