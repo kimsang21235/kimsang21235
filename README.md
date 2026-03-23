@@ -1,106 +1,111 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=280&section=header&text=Sanghyeon%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Backend%20Developer&descAlignY=75)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;AI+Service+Builder;Computer+Vision+Project+Experience&center=true&width=500&height=50)](https://git.io/typing-svg)
-# 👋 Hi, I'm Sanghyeon Kim
+<div align="center">
 
-백엔드 기반으로 AI 서비스를 설계하고 구현하는 개발자입니다.  
-단순 모델 구현을 넘어 **"서비스로 동작하는 AI 시스템"**을 만드는 것을 목표로 합니다.
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=280&section=header&text=Sanghyeon%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Backend%20Developer&descAlignY=75)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;AI+Service+Builder;Computer+Vision+Project+Experience&center=true&width=550&height=50)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://github.com/your-github-id"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🧠 Python 기반 AI 서비스 개발 (Flask / FastAPI)
-- 🔍 이미지 기반 피부 분석 시스템 개발 (회귀 모델)
-- 🎥 YOLO 기반 실시간 객체 탐지 및 영상 분석 경험
-- ☁️ GCP 환경에서 AI 서비스 배포 경험
-- 📊 데이터 분석 및 머신러닝 파이프라인 구축 경험
+AI 모델을 단순히 만드는 것에 그치지 않고,  
+**백엔드와 연결해 실제로 동작하는 서비스 형태로 구현하는 개발자**입니다.
+
+이미지 기반 **피부 분석 시스템**과 **YOLO 기반 영상 분석 시스템**을 프로젝트로 수행하며,  
+모델 적용, API 흐름 설계, 예외 처리, 서비스 구조화까지 경험했습니다.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-- Python (Flask, FastAPI)
-- REST API 설계 및 구현
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square"/>
+</p>
 
-### 🤖 AI / ML
-- TensorFlow Lite
-- YOLO (Ultralytics)
-- OpenCV
-- 이미지 전처리 및 특징 추출
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-2C3E50?style=flat-square"/>
+</p>
 
-### 🗄 Database
-- SQLite
-- MySQL
-- ERD 설계 및 SQL 작성
+### Database / Infra
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Compute%20Engine-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-### ☁️ Infra
-- Google Cloud Platform (Compute Engine)
-- Git / GitHub
-
-### 🌐 Frontend
-- HTML / CSS / JavaScript
-- React (기초 사용 경험)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
 
 ---
 
-## 📌 Main Projects
+## 📌 Featured Projects
 
-### 🧴 AI Skin Diagnosis Service (SKINMATE)
-> 이미지 기반 피부 상태 분석 및 맞춤 추천 시스템
+### 1. SKINMATE — AI Skin Diagnosis Service
+> 이미지 기반 피부 상태 분석 및 맞춤 추천 서비스
 
-#### 🔹 Features
-- 사용자 로그인 및 개인화 서비스
-- 얼굴 이미지 기반 피부 상태 점수화 (회귀 모델)
-- 피부 타입별 화장품 추천
-- 피부 상태 변화 기록 및 추적
+**주요 내용**
+- 사용자 로그인 및 개인화 기능
+- 얼굴 이미지 기반 피부 상태 점수화
+- 피부 상태에 따른 화장품 추천
+- 피부 변화 기록 및 조회 기능
 
-#### 🔹 Tech
-- Flask 기반 서버
-- TensorFlow Lite 모델
+**기술 포인트**
+- Flask 기반 백엔드 구조 설계
+- TensorFlow Lite 모델 연동
 - 이미지 전처리 및 얼굴 검증 로직
-- 예외 처리 및 fallback heuristic 적용
+- fallback heuristic 및 예외 처리 적용
+- 단순 분류가 아닌 **회귀 기반 점수화 접근**
 
-#### 🔹 Highlights
-- 단순 분류 → **정량적 분석(회귀)** 방식으로 개선
-- 실제 서비스 흐름 (로그인 → 분석 → 추천 → 기록) 구현
-- AI 모델을 API 형태로 제공하는 구조 설계
+**Repository**
+- [SKINMATE 바로가기](https://github.com/your-github-id/SKINMATE)
 
 ---
 
-### 🎥 YOLO 기반 영상 분석 시스템
-> 실시간 객체 탐지를 활용한 영상 처리 시스템
+### 2. YOLO-based Video Analysis System
+> 실시간 객체 탐지 기반 영상 분석 프로젝트
 
-#### 🔹 Features
-- 영상/이미지에서 객체 탐지
-- 특정 객체 필터링 (ex. 사람 탐지)
-- 결과 시각화 및 저장
+**주요 내용**
+- 영상/이미지 내 객체 탐지
+- 특정 객체 대상 필터링 실험
+- 탐지 결과 시각화 및 저장
 
-#### 🔹 Tech
-- YOLOv8 (Ultralytics)
+**기술 포인트**
+- YOLOv8 기반 탐지 시스템 적용
 - OpenCV 기반 영상 처리
-- Python
+- 커스텀 데이터셋 활용 및 추론 테스트
+- 실제 영상 데이터 기반 검증 경험
 
-#### 🔹 Highlights
-- 커스텀 데이터셋 기반 모델 학습
-- 탐지 정확도 개선을 위한 실험 진행
-- 실제 영상 데이터 기반 테스트
-
----
-
-## 📈 What I Focus On
-
-- 단순 기능 구현이 아닌 **"구조 설계"**
-- 모델 정확도보다 **서비스 적용 가능성**
-- 코드보다 **전체 시스템 흐름 이해**
+**Repository**
+- [Video Analysis Project 바로가기](https://github.com/your-github-id/your-video-analysis-repo)
 
 ---
 
-## 📫 Contact
+## 💡 What I Focus On
 
-- GitHub: https://github.com/your-github-id
-- Email: your-email@example.com
-
----
-
-⭐️ 꾸준히 성장하는 개발자가 되겠습니다.
+```text
+- 모델 구현에 그치지 않고 서비스로 연결하기
+- API 흐름과 예외 상황까지 고려한 백엔드 설계
+- AI 기능을 실제 사용자 경험으로 바꾸는 구조 만들기
