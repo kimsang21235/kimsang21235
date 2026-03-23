@@ -6,8 +6,13 @@
 
 ## 👤 Profile 
 
+<div align="center">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/your-github-id)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/kimsang21235)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/24dfebf7622b80b893e3e89e82f3e2f5)
+
+</div>
 
 ---
 
@@ -150,7 +155,7 @@ GCP 기반 AI 서비스 구축 경험
 - AI 모델을 서비스로 연결하는 백엔드 설계
 - 사용자 흐름 기반 API 구조 설계
 - 예외 상황까지 고려한 안정적인 서비스 구현
-- 
+  
 ---
 
 ## 🚀 Goal
