@@ -149,8 +149,8 @@ GCP 기반 AI 서비스 구축 경험
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?kimsang21235=tkdgusdhzp@gmail.com&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?tkdgusdhzp@gmail.com&layout=compact&theme=tokyonight"/>
 
 </div>
 
