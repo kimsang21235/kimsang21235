@@ -93,13 +93,13 @@ AI 모델을 단순히 만드는 것에 그치지 않고,
 - 탐지 결과 시각화 및 저장
 
 **기술 포인트**
-- YOLOv8 기반 탐지 시스템 적용
+- YOLO12n 기반 탐지 시스템 적용
 - OpenCV 기반 영상 처리
 - 커스텀 데이터셋 활용 및 추론 테스트
 - 실제 영상 데이터 기반 검증 경험
 
 **Repository**
-- [Video Analysis Project 바로가기](https://github.com/kimsang21235/your-video-analysis-repo)
+- [Video Analysis Project 바로가기](https://github.com/kimsang21235/YOLO-Crowd-Detection-System)
 
 ---
 
