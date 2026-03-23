@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=280&section=header&text=Sanghyeon%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Backend%20Developer&descAlignY=75)
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=280&section=header&text=Sanghyeon%20Kim&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Backend%20Developer&descAlignY=75)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Backend+Developer;AI+Service+Builder;Computer+Vision+Project+Experience&center=true&width=500&height=50)](https://git.io/typing-svg)
 # 👋 Hi, I'm Sanghyeon Kim
 
