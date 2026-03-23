@@ -110,7 +110,7 @@ GCP 기반 AI 서비스 구축 경험
       <a href="https://github.com/kimsang21235/SKINMATE"><b>SKINMATE</b></a>
     </td>
     <td>
-      ![SkinMate 시연](https://raw.githubusercontent.com/kimsang21235/SKINMATE/main/docs/screenshots/skinmate_demo.gif)
+      <img src="https://raw.githubusercontent.com/kimsang21235/SKINMATE/main/docs/screenshots/skinmate_demo" width="400" alt="SkinMate 시연"/>
     </td>
     <td>
       회귀 기반 피부 점수화와<br/>
