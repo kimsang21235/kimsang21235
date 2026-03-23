@@ -113,9 +113,7 @@ GCP 기반 AI 서비스 구축 경험
       <img src="https://raw.githubusercontent.com/kimsang21235/SKINMATE/main/docs/screenshots/skinmate_demo.gif" width="400" alt="SkinMate 시연"/>
     </td>
     <td>
-      회귀 기반 피부 점수화와
-      맞춤 화장품 추천을 제공하는
-      AI 피부 분석 서비스
+      AI 피부 분석 · 맞춤 화장품 추천
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
@@ -137,9 +135,7 @@ GCP 기반 AI 서비스 구축 경험
       <img src="https://raw.githubusercontent.com/kimsang21235/YOLO-Crowd-Detection-System/main/docs/YOLO_Video_Analysis_demo.gif" width="400" alt="3vis 시연"/>
     </td>
     <td>
-      YOLO 기반 객체 탐지와
-      영상 분석을 수행하는
-      컴퓨터 비전 프로젝트
+      실시간 객체 탐지 · 영상 분석
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
