@@ -80,7 +80,7 @@ AI 모델을 단순히 만드는 것에 그치지 않고,
 - 단순 분류가 아닌 **회귀 기반 점수화 접근**
 
 **Repository**
-- [SKINMATE 바로가기](https://github.com/your-github-id/SKINMATE)
+- [SKINMATE 바로가기](https://github.com/kimsang21235/SKINMATE)
 
 ---
 
@@ -99,7 +99,7 @@ AI 모델을 단순히 만드는 것에 그치지 않고,
 - 실제 영상 데이터 기반 검증 경험
 
 **Repository**
-- [Video Analysis Project 바로가기](https://github.com/your-github-id/your-video-analysis-repo)
+- [Video Analysis Project 바로가기](https://github.com/kimsang21235/your-video-analysis-repo)
 
 ---
 
